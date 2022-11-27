@@ -1,2 +1,2 @@
-# Prework-Study-Guide
-A study guide for Course pre-work 2022
+# Prework-Study-Guide & Front End Developer Coursework
+Study guide and Course Work 2022
